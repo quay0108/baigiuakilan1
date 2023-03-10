@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262479051842",
+    "project_id": "uda-phuongppn2",
+    "storage_bucket": "uda-phuongppn2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262479051842:android:d8a1fbc059f1f09f1f81db",
+        "android_client_info": {
+          "package_name": "com.uda.phuongppn.test3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262479051842-lj83qj2ec114oqp6galnfvtegfu5n6v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc5Mo_eYJw9jrFW40CP4WZVNcI9ERlslg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262479051842-lj83qj2ec114oqp6galnfvtegfu5n6v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
